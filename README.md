@@ -9,13 +9,14 @@
 
 ## 👨‍💻 About Me
 
-Passionate **Frontend Developer** and **UI/UX Designer** with a decade of **experience building scalable**, **high-performance web applications**. Proven expertise in modern frontend technologies, accessibility, and user-centered design, delivering intuitive, visually compelling digital experiences that drive engagement, growth, and measurable business impact.
+Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experience building **scalable**, **high-performance**, and **user-focused web applications**. I specialize in modern frontend technologies, accessibility, and user-centered design — delivering intuitive and visually compelling digital experiences that drive engagement and measurable business impact.
 
 - 🌱 I’m currently learning and advancing my expertise in the **Top Frontend Tech Stack**
-- 🎨 Strong eye for design and user experience
-- ⚡ Focused on performance, accessibility, and scalability
-- 🚀 Always learning and exploring new technologies
-- 💡 I enjoy turning ideas into interactive digital experiences
+- 🚀 Focused on React, Astro, TypeScript, Tailwind, Angular, and modern frontend architecture
+- 🎨 Strong eye for design systems and user experience
+- ⚡ Performance, accessibility, and scalability advocate
+- 💡 I enjoy transforming ideas into interactive digital experiences
+- 📈 Always exploring new tools and evolving with the frontend ecosystem
 
 ---
 
@@ -78,11 +79,23 @@ Passionate **Frontend Developer** and **UI/UX Designer** with a decade of **expe
 <a href="https://balsamiq.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/balsamiq/balsamiq-original.svg" width="40" height="40"/>
 </a>
+<a href="https://mui.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
+</a>
+<a href="https://shadcn.dev/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/shadcn/shadcn-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://www.primefaces.org/primeng/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/primefaces/primeng-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://material.angular.io/" target="_blank">
+<img src="https://material.angular.io/assets/img/angular-material-logo.svg" width="40" height="40"/>
+</a>
 </p>
 
 ---
 
-### 🔧 Backend & CMS & Tools
+### 🔧 Backend, CMS & Tools
 <p align="left">
 <a href="https://firebase.google.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
