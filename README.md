@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maazizweb" alt="maazizweb" /></a> </p>
 
-- 🔭 I’m currently working on [Paysii](https://paysii.com/en/)
-
-- 👯 I’m looking to collaborate on [EquityTaxation](https://www.equitytaxation.com/)
-
-- 🤝 I’m looking for help with [CyberArch](https://www.cyberarch.ca/)
+- 🌱 I’m currently learning **Top Frontend Tech Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
