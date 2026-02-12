@@ -77,7 +77,7 @@ Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
 </a>
 <a href="https://balsamiq.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/balsamiq/balsamiq-original.svg" width="40" height="40"/>
+<img src="https://balsamiq.com/assets/brand/wordmark.png" width="40" height="40"/>
 </a>
 <a href="https://mui.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
