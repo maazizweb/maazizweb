@@ -11,7 +11,7 @@
 
 Passionate **Frontend Developer** and **UI/UX Designer** with a decade of **experience building scalable**, **high-performance web applications**. Proven expertise in modern frontend technologies, accessibility, and user-centered design, delivering intuitive, visually compelling digital experiences that drive engagement, growth, and measurable business impact.
 
-- 🌱 Currently mastering the **Modern Frontend Tech Stack**
+- 🌱 I’m currently learning and advancing my expertise in the **Top Frontend Tech Stack**
 - 🎨 Strong eye for design and user experience
 - ⚡ Focused on performance, accessibility, and scalability
 - 🚀 Always learning and exploring new technologies
