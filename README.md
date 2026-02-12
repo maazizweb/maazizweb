@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Abdul Aziz</h1>
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4e895194-468e-44cc-967f-14788526554f" /><h1 align="center">Hi 👋, I'm Mohammed Abdul Aziz</h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | Building Modern Web Experiences</h3>
 
 <p align="center">
@@ -125,7 +125,7 @@ Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
 </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/jira.svg" width="40" height="40"/>
+<img src="https://images.seeklogo.com/logo-png/32/1/atlassian-logo-png_seeklogo-326273.png" width="40" height="40"/>
 </a>
 <a href="https://n8n.io/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/N8N_logo.svg" width="40" height="40"/>
