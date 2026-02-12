@@ -110,10 +110,10 @@ Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
 </a>
 <a href="https://www.joomla.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/joomla/joomla-original.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/joomla.svg" width="40" height="40"/>
 </a>
 <a href="https://www.emailjs.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/emailjs/emailjs-icon.svg" width="40" height="40"/>
+<img src="https://www.emailjs.com/logo.png" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
