@@ -12,7 +12,7 @@
 Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experience building **scalable**, **high-performance**, and **user-focused web applications**. I specialize in modern frontend technologies, accessibility, and user-centered design — delivering intuitive and visually compelling digital experiences that drive engagement and measurable business impact.
 
 - 🌱 I’m currently learning and advancing my expertise in the **Top Frontend Tech Stack**
-- 🚀 Focused on React, Astro, TypeScript, Tailwind, Angular, and modern frontend architecture
+- 🚀 Focused on React, Astro, TypeScript, Tailwind, Angular, HTML & CSS, and modern frontend architecture
 - 🎨 Strong eye for design systems and user experience
 - ⚡ Performance, accessibility, and scalability advocate
 - 💡 I enjoy transforming ideas into interactive digital experiences
@@ -34,6 +34,12 @@ Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experi
 
 ### 🚀 Frontend Development
 <p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</a>
 <a href="https://astro.build/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" height="40"/>
 </a>
@@ -140,9 +146,19 @@ Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experi
 
 ---
 
-###  Cloud Server
-
-Coming Soon!...
+### ☁️ Cloud Server
+<p align="left">
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.digitalocean.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/digitalocean-1.svg" width="40" height="40"/>
+</a>
+<a href="https://www.heroku.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/heroku-2.svg" width="40" height="40"/>
+</a>
+</p>
 
 ---
+
 ⭐️ From [maazizweb](https://github.com/maazizweb)
