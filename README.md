@@ -118,6 +118,21 @@ Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experi
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </a>
+<a href="https://bitbucket.org/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" width="40" height="40"/>
+</a>
+<a href="https://gitlab.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/jira.svg" width="40" height="40"/>
+</a>
+<a href="https://n8n.io/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/N8N_logo.svg" width="40" height="40"/>
+</a>
+<a href="https://cpanel.net/" target="_blank">
+<img src="https://seeklogo.com/images/C/cpanel-logo-6E5E43E693-seeklogo.com.png" width="40" height="40"/>
+</a>
 <a href="https://postman.com" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 </a>
