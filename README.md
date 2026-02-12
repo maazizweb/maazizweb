@@ -83,7 +83,7 @@ Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
 </a>
 <a href="https://shadcn.dev/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/shadcn/shadcn-icon.svg" width="40" height="40"/>
+<img src="https://ui.shadcn.com/apple-touch-icon.png" width="40" height="40"/>
 </a>
 <a href="https://www.primefaces.org/primeng/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/primefaces/primeng-icon.svg" width="40" height="40"/>
