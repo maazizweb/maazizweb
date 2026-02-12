@@ -9,8 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Frontend Developer and UI/UX Designer** who loves building clean, responsive, and user-friendly web applications.
-More About Me: Senior web developer with a decade of experience in designing, developing, and maintaining web applications. Proven track record of success in creating highly efficient, user-friendly, and aesthetically pleasing websites that generate high levels of traffic. Skilled in developing, migrating and testing multiple web-based applications incorporating a range of technologies.Adept at applying UI/UX and front-end design principles—crafting intuitive interfaces, optimizing user flows, and employing accessibility best practices to deliver visually compelling and inclusive digital experiences.
+Passionate **Frontend Developer** and **UI/UX Designer** with a decade of **experience building scalable**, **high-performance web applications**. Proven expertise in modern frontend technologies, accessibility, and user-centered design, delivering intuitive, visually compelling digital experiences that drive engagement, growth, and measurable business impact.
 
 - 🌱 Currently mastering the **Modern Frontend Tech Stack**
 - 🎨 Strong eye for design and user experience
