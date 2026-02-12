@@ -128,10 +128,10 @@ Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experi
 <img src="https://images.seeklogo.com/logo-png/32/1/atlassian-logo-png_seeklogo-326273.png" width="40" height="40"/>
 </a>
 <a href="https://n8n.io/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/N8N_logo.svg" width="40" height="40"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/n8n-icon.png" width="40" height="40"/>
 </a>
 <a href="https://cpanel.net/" target="_blank">
-<img src="https://seeklogo.com/images/C/cpanel-logo-6E5E43E693-seeklogo.com.png" width="40" height="40"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/cpanel-icon.png" width="40" height="40"/>
 </a>
 <a href="https://postman.com" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
