@@ -1,4 +1,4 @@
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4e895194-468e-44cc-967f-14788526554f" /><h1 align="center">Hi 👋, I'm Mohammed Abdul Aziz</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Abdul Aziz</h1>
 <h3 align="center">Frontend Developer | UI/UX Designer | Building Modern Web Experiences</h3>
 
 <p align="center">
