@@ -86,10 +86,10 @@ Passionate **Frontend Developer** and **UI/UX Designer** with a decade of experi
 <img src="https://ui.shadcn.com/apple-touch-icon.png" width="40" height="40"/>
 </a>
 <a href="https://www.primefaces.org/primeng/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/primefaces/primeng-icon.svg" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKbfxBJMW4MqlnPw8NHods5DGg2_f4eAV2w&s" width="40" height="40"/>
 </a>
 <a href="https://material.angular.io/" target="_blank">
-<img src="https://material.angular.io/assets/img/angular-material-logo.svg" width="40" height="40"/>
+<img src="https://stickersdevs.com.br/wp-content/uploads/2021/09/angular_material_sticker_adesivo-300x300.jpg" width="40" height="40"/>
 </a>
 </p>
 
